@@ -9,3 +9,4 @@ This PCB is designed with KiCAD 9.0. I used mostly 0603 SMD with some through ho
 
 These days, you can order PCB online for a really low price. This make DIY project much easier.
 ![schematic](image/shorty-with-display_schematic.jpg)
+![PCB](image/shorty-with-display_PCB.jpg)

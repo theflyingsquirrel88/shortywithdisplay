@@ -8,6 +8,7 @@ I was fixing my laptop and thinking there is a short somewhere which is hard to 
 This PCB is designed with KiCAD 9.0. I used mostly 0603 SMD with some through hold components. You may Thesewant to take a look at the original Project to get an idea of what this PCB is for.
 
 These days, you can order PCB online for a really low price. This make DIY project much easier.
+![3DModel](image/Shortywithdisplay.jpg)
 ![schematic](image/shorty-with-display_schematic.jpg)
 ![PCB](image/shorty-with-display_PCB.jpg)
 
